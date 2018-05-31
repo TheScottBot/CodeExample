@@ -5,6 +5,7 @@
     using System.Configuration;
     class Program
     {
+        private const int _numberOfScriptsToAllowProcessing = 2;
         static void Main(string[] args)
         {
             var settings = ConfigurationManager.AppSettings;
@@ -13,7 +14,7 @@
 
             var count = stringFinder.FindStringInFiles(settings["searchFor"], stringFinder.GetFiles());
 
-            if (count == 2)
+            if (count == _numberOfScriptsToAllowProcessing)
             {
                 var scriptExecutor = new ScriptExecutor.ExecutePythonScript();
                 var scriptToExecute = settings["scirptToExecure"];
