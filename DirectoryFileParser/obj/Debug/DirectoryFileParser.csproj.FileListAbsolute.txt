@@ -1,0 +1,5 @@
+C:\Users\P10290493\source\repos\CodePracticesExample\DirectoryFileParser\bin\Debug\DirectoryFileParser.dll
+C:\Users\P10290493\source\repos\CodePracticesExample\DirectoryFileParser\bin\Debug\DirectoryFileParser.pdb
+C:\Users\P10290493\source\repos\CodePracticesExample\DirectoryFileParser\obj\Debug\DirectoryFileParser.csproj.CoreCompileInputs.cache
+C:\Users\P10290493\source\repos\CodePracticesExample\DirectoryFileParser\obj\Debug\DirectoryFileParser.dll
+C:\Users\P10290493\source\repos\CodePracticesExample\DirectoryFileParser\obj\Debug\DirectoryFileParser.pdb

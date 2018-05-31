@@ -1,0 +1,11 @@
+C:\Users\P10290493\source\repos\CodePracticesExample\FineTuning\bin\Debug\FineTuning.exe.config
+C:\Users\P10290493\source\repos\CodePracticesExample\FineTuning\bin\Debug\FineTuning.exe
+C:\Users\P10290493\source\repos\CodePracticesExample\FineTuning\bin\Debug\FineTuning.pdb
+C:\Users\P10290493\source\repos\CodePracticesExample\FineTuning\bin\Debug\DirectoryFileParser.dll
+C:\Users\P10290493\source\repos\CodePracticesExample\FineTuning\bin\Debug\ScriptExecutor.dll
+C:\Users\P10290493\source\repos\CodePracticesExample\FineTuning\bin\Debug\DirectoryFileParser.pdb
+C:\Users\P10290493\source\repos\CodePracticesExample\FineTuning\bin\Debug\ScriptExecutor.pdb
+C:\Users\P10290493\source\repos\CodePracticesExample\FineTuning\obj\Debug\FineTuning.csprojResolveAssemblyReference.cache
+C:\Users\P10290493\source\repos\CodePracticesExample\FineTuning\obj\Debug\FineTuning.csproj.CoreCompileInputs.cache
+C:\Users\P10290493\source\repos\CodePracticesExample\FineTuning\obj\Debug\FineTuning.exe
+C:\Users\P10290493\source\repos\CodePracticesExample\FineTuning\obj\Debug\FineTuning.pdb

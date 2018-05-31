@@ -1,0 +1,7 @@
+C:\Users\P10290493\source\repos\CodePracticesExample\AnotherBetterWay\bin\Debug\AnotherBetterWay.exe.config
+C:\Users\P10290493\source\repos\CodePracticesExample\AnotherBetterWay\bin\Debug\AnotherBetterWay.exe
+C:\Users\P10290493\source\repos\CodePracticesExample\AnotherBetterWay\bin\Debug\AnotherBetterWay.pdb
+C:\Users\P10290493\source\repos\CodePracticesExample\AnotherBetterWay\obj\Debug\AnotherBetterWay.csprojResolveAssemblyReference.cache
+C:\Users\P10290493\source\repos\CodePracticesExample\AnotherBetterWay\obj\Debug\AnotherBetterWay.csproj.CoreCompileInputs.cache
+C:\Users\P10290493\source\repos\CodePracticesExample\AnotherBetterWay\obj\Debug\AnotherBetterWay.exe
+C:\Users\P10290493\source\repos\CodePracticesExample\AnotherBetterWay\obj\Debug\AnotherBetterWay.pdb

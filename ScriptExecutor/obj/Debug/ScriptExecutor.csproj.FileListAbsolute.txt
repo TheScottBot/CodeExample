@@ -1,0 +1,5 @@
+C:\Users\P10290493\source\repos\CodePracticesExample\ScriptExecutor\bin\Debug\ScriptExecutor.dll
+C:\Users\P10290493\source\repos\CodePracticesExample\ScriptExecutor\bin\Debug\ScriptExecutor.pdb
+C:\Users\P10290493\source\repos\CodePracticesExample\ScriptExecutor\obj\Debug\ScriptExecutor.csproj.CoreCompileInputs.cache
+C:\Users\P10290493\source\repos\CodePracticesExample\ScriptExecutor\obj\Debug\ScriptExecutor.dll
+C:\Users\P10290493\source\repos\CodePracticesExample\ScriptExecutor\obj\Debug\ScriptExecutor.pdb

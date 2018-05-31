@@ -1,0 +1,6 @@
+C:\Users\P10290493\source\repos\CodePracticesExample\NotSoGreatWay\bin\Debug\NotSoGreatWay.exe.config
+C:\Users\P10290493\source\repos\CodePracticesExample\NotSoGreatWay\bin\Debug\NotSoGreatWay.exe
+C:\Users\P10290493\source\repos\CodePracticesExample\NotSoGreatWay\bin\Debug\NotSoGreatWay.pdb
+C:\Users\P10290493\source\repos\CodePracticesExample\NotSoGreatWay\obj\Debug\NotSoGreatWay.csproj.CoreCompileInputs.cache
+C:\Users\P10290493\source\repos\CodePracticesExample\NotSoGreatWay\obj\Debug\NotSoGreatWay.exe
+C:\Users\P10290493\source\repos\CodePracticesExample\NotSoGreatWay\obj\Debug\NotSoGreatWay.pdb

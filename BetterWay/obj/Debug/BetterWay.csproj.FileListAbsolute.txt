@@ -1,0 +1,6 @@
+C:\Users\P10290493\source\repos\CodePracticesExample\BetterWay\bin\Debug\BetterWay.exe.config
+C:\Users\P10290493\source\repos\CodePracticesExample\BetterWay\bin\Debug\BetterWay.exe
+C:\Users\P10290493\source\repos\CodePracticesExample\BetterWay\bin\Debug\BetterWay.pdb
+C:\Users\P10290493\source\repos\CodePracticesExample\BetterWay\obj\Debug\BetterWay.csproj.CoreCompileInputs.cache
+C:\Users\P10290493\source\repos\CodePracticesExample\BetterWay\obj\Debug\BetterWay.exe
+C:\Users\P10290493\source\repos\CodePracticesExample\BetterWay\obj\Debug\BetterWay.pdb
